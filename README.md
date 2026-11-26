@@ -36,21 +36,18 @@
 
 ---
 
-## 💀 MY TECH ARSENAL
+
+## 💀 GITHUB STATISTICS
 
 <div align="center">
 
-### Languages
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000"/>
 
-<img src="https://skillicons.dev/icons?i=dart,html,css,js&theme=dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&border_color=8B0000"/>
 
-### Frameworks & Development
+<br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,androidstudio&theme=dark"/>
-
-### Design & AI
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=jayhkalathiya2006&theme=dark&background=050000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&border=8B0000"/>
 
 </div>
 
