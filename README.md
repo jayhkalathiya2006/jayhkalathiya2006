@@ -1,12 +1,12 @@
 
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,40:300000,100:8B0000&text=ZENZI&fontColor=FF0000&fontSize=85&fontAlignY=38&animation=twinkling&desc=WELCOME%20TO%20THE%20DARK%20SIDE&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:990000&height=230&section=header&text=JAY%20KALATHIYA&fontSize=48&fontColor=FF0000&animation=twinkling&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=27&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=THE+NIGHTMARE+HAS+BEGUN...;WELCOME+TO+ZENZI;CODE+IN+THE+DARKNESS;FEAR+IS+JUST+AN+ILLUSION" />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=WELCOME+TO+THE+DARK+SIDE...;FLUTTER+DEVELOPER;AI+ENTHUSIAST;UI%2FUX+CREATOR;BUILDING+THE+FUTURE..."/>
 
 <br/>
+
 ### ☠️ ENTER IF YOU DARE ☠️
 
 *Turning Ideas Into Digital Experiences...*
