@@ -1,129 +1,142 @@
 
 <div align="center">
 
-# 💀 JAY H. KALATHIYA
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050000,50:3B0000,100:990000&text=JAY%20H.%20KALATHIYA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=15&animation=fadeIn"/>
 
-### Flutter Developer | Mobile App Developer | AI Enthusiast
+<a href="https://my-resume-eosin-phi.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/jayhkalathiya2006">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**CODE. CREATE. INNOVATE.**
-
-"Dream Big. Build Smarter. Create Something Extraordinary."
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_Website-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-resume-eosin-phi.vercel.app)
-[![GitHub](https://img.shields.io/badge/GITHUB-Visit_Profile-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayhkalathiya2006)
-
-</div>
-
----
-
-## 👨‍💻 ABOUT ME
-
-Hello! I'm **Jay H. Kalathiya**, a Flutter Developer passionate about building modern mobile applications, AI-powered solutions, and user-friendly digital experiences.
-
-- 📱 Flutter & Dart Developer
-- 🎨 UI/UX Design Enthusiast
-- 🤖 Interested in AI & Emerging Technologies
-- 🔥 Focused on building practical real-world applications
-- 🚀 Exploring innovative software solutions
-- 💡 Always learning and improving my development skills
-
----
-
-## 🛠️ TECH STACK
-
-### Programming Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Other Skills
-- UI/UX Design
-- Responsive Frontend Development
-- AI Tools & Integration
-- Mobile Application Development
-- Application Testing & Debugging
-
----
-
-## 🚀 MY PROJECTS
-
-### 1. Sudoku Master – Brain Challenge
-- Sudoku puzzle game with multiple difficulty levels.
-- Daily and Weekly Challenges.
-- Hint system and AdMob integration.
-
-### 2. BuilderCRM
-- Real Estate CRM management platform.
-- Builder, Broker, Employee and Customer panels.
-- Leads, Projects, Inventory and Payment management.
-
-### 3. Food Delivery Platform
-- Customer, Restaurant, Admin and Delivery Partner modules.
-- Online payment and Cash on Delivery support.
-- Restaurant and delivery management workflows.
-
-### 4. Umbrella Social App
-- Social networking application UI.
-- Stories, Clips, Chat and Video Calling interfaces.
-- Profile and community features.
-
----
-
-## 🎓 EDUCATION
-
-- **BCA** – Bachelor of Computer Applications
-- **MCA** – Parul University (2026–2028)
-
----
-
-## 💼 EXPERIENCE
-
-**Flutter Developer – Visyom AI**
-
-- Flutter and Dart application development.
-- Mobile UI/UX implementation.
-- Frontend development and debugging.
-- Working with modern AI development tools.
-
----
-
-## 🧠 CURRENTLY EXPLORING
-
-- Artificial Intelligence
-- Advanced Flutter Development
-- AI-powered Applications
-- Modern UI/UX Experiences
-- Scalable Software Architecture
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF3333&text_color=FFFFFF&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=I+BUILD+DIGITAL+EXPERIENCES;FLUTTER+%7C+DART+%7C+FIREBASE;CREATING+IDEAS+INTO+REALITY;CODE.+CREATE.+INNOVATE."/>
 
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## ◈ 01 — THE DEVELOPER
+
+> "Turning imagination into digital experiences."
+
+I'm **Jay H. Kalathiya**, a Flutter Developer who loves creating modern applications, intuitive interfaces, and innovative technology solutions.
+
+- `01` — Mobile Application Development
+- `02` — Flutter & Dart Development
+- `03` — UI/UX and Frontend Experiences
+- `04` — AI-powered Applications
+- `05` — Building real-world software products
+
+---
+
+## ◈ 02 — TECHNOLOGY MATRIX
+
+| DOMAIN | TECHNOLOGIES |
+|---|---|
+| Mobile | Flutter, Dart |
+| Frontend | HTML, CSS, JavaScript |
+| Backend Services | Firebase |
+| Tools | Git, GitHub, VS Code |
+| Design | UI/UX |
+| Innovation | AI Tools |
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-resume-eosin-phi.vercel.app)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,git,github,vscode&theme=dark"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayhkalathiya2006)
+</div>
+
+---
+
+## ◈ 03 — SELECTED PROJECTS
+
+<details>
+<summary><b>01 / SUDOKU MASTER — BRAIN CHALLENGE</b></summary>
+
+A Sudoku puzzle game featuring:
+
+- Multiple difficulty levels
+- Daily and Weekly Challenges
+- Hint system
+- AdMob integration
+
+</details>
+
+<details>
+<summary><b>02 / BUILDERCRM</b></summary>
+
+A real estate CRM platform featuring:
+
+- Builder, Broker, Employee and Customer panels
+- Leads and customer management
+- Projects and inventory
+- Payment and receipt management
+
+</details>
+
+<details>
+<summary><b>03 / FOOD DELIVERY PLATFORM</b></summary>
+
+A multi-panel food delivery platform featuring:
+
+- Customer application
+- Restaurant dashboard
+- Delivery Partner application
+- Admin management
+
+</details>
+
+<details>
+<summary><b>04 / UMBRELLA SOCIAL APP</b></summary>
+
+A social application interface featuring:
+
+- Stories and Clips
+- Chat and Calls
+- Profile and Communities
+- Modern mobile UI
+
+</details>
+
+---
+
+## ◈ 04 — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF3333&text_color=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+## ◈ 05 — EDUCATION & EXPERIENCE
+
+**EDUCATION**
+
+- Bachelor of Computer Applications (BCA)
+- Master of Computer Applications (MCA) — Parul University, 2026–2028
+
+**EXPERIENCE**
+
+Flutter Developer — Visyom AI
+
+---
+
+## ◈ 06 — CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://my-resume-eosin-phi.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jayhkalathiya2006">
+<img src="https://img.shields.io/badge/GITHUB-Follow_My_Work-171717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -131,8 +144,10 @@ Hello! I'm **Jay H. Kalathiya**, a Flutter Developer passionate about building m
 
 <div align="center">
 
-### 💀 CODE. CREATE. INNOVATE.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,100:050000&height=110&section=footer"/>
 
-**Thanks for visiting my GitHub Profile!**
+**BUILT WITH PASSION. POWERED BY CODE.**
+
+`JAY H. KALATHIYA © 2026`
 
 </div>
