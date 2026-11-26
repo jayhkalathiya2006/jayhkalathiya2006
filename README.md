@@ -94,17 +94,24 @@
 
 ---
 
-## 🩸 CONNECT WITH ME
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=FF0000"/>
+<a href="https://my-resume-eosin-phi.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_MY_PORTFOLIO-Visit_Website-8B0000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://my-resume-tby3.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=FF0000"/>
+<a href="https://github.com/jayhkalathiya2006">
+  <img src="https://img.shields.io/badge/GITHUB-Visit_Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+**Portfolio:** https://my-resume-eosin-phi.vercel.app
+
+**GitHub:** https://github.com/jayhkalathiya2006
 
 </div>
 
