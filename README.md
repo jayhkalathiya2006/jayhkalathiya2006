@@ -1,94 +1,118 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,40:300000,100:8B0000&text=ZENZI&fontColor=FF0000&fontSize=85&fontAlignY=38&animation=twinkling&desc=WELCOME%20TO%20THE%20DARK%20SIDE&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:990000&height=230&section=header&text=JAY%20KALATHIYA&fontSize=48&fontColor=FF0000&animation=twinkling&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=27&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=THE+NIGHTMARE+HAS+BEGUN...;WELCOME+TO+ZENZI;CODE+IN+THE+DARKNESS;FEAR+IS+JUST+AN+ILLUSION" />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=WELCOME+TO+THE+DARK+SIDE...;FLUTTER+DEVELOPER;AI+ENTHUSIAST;UI%2FUX+CREATOR;BUILDING+THE+FUTURE..."/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="280"/>
+### ☠️ ENTER IF YOU DARE ☠️
 
-### ☠️ THE DEVELOPER BEHIND THE DARKNESS ☠️
-
-**Flutter Developer | AI Enthusiast | UI/UX Creator**
-
-*"I don't follow the darkness. I create it."*
+*Turning Ideas Into Digital Experiences...*
 
 </div>
 
 ---
 
-## 🩸 WHO AM I?
+## 🩸 ABOUT ME
 
 ```bash
-> Initializing ZENZI system...
+> Initializing developer profile...
 > Access granted.
-> Developer detected.
-> Entering the dark zone...
+> Identity: Jay Kalathiya
+> Role: Flutter Developer
+> Interest: Artificial Intelligence
+> Mission: Building the Future
 ```
 
-- 👨‍💻 Flutter & Dart Developer
-- 🧠 Exploring AI-powered technologies
-- 🎨 Creating unique UI/UX experiences
-- ⚡ Building powerful digital products
-- 💀 Turning ideas into reality
+- 👨‍💻 Flutter Developer focused on modern application development.
+- 🤖 Exploring Artificial Intelligence and AI-powered solutions.
+- 🎨 Passionate about UI/UX design and creative interfaces.
+- 📱 Building cross-platform mobile applications.
+- 🔥 Working with Flutter, Dart and Firebase.
+- 💡 Always learning, experimenting and building something new.
+- 🏢 Building my journey with NO FOUND.
 
 ---
 
-## 🔥 MY WEAPON ARSENAL
+## 💀 MY TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,git,github,vscode,figma&theme=dark" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=dart,html,css,js&theme=dark"/>
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,androidstudio&theme=dark"/>
+
+### Design & AI
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark"/>
 
 </div>
 
 ---
 
-## 💀 PROJECTS FROM THE DARK
+## 🔥 FEATURED PROJECTS
 
-| Project | Description |
-|---|---|
-| 🏢 BuilderCRM | Real Estate Management System |
-| 🧩 Sudoku Master | Brain Challenge Game |
-| 🍔 Food Delivery | Restaurant & Delivery Platform |
-| 🌐 Umbrella | Social Media Application |
+| Project | Description | Technology |
+|---|---|---|
+| 🎮 Sudoku Master | Brain training Sudoku game with daily challenges and AdMob | Flutter, Dart |
+| 🏢 BuilderCRM | Real estate CRM with builder, broker and customer workflows | Frontend, CRM |
+| 🍔 Food Delivery | Multi-panel food delivery platform | Flutter, UI/UX |
+| 🌐 Umbrella App | Social media application with stories, chat and video calls | Flutter |
 
 ---
 
-## 🩸 GITHUB STATISTICS
+## ☠️ GITHUB STATISTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=050000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=8b0000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=050000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&border=8b0000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&border_color=8B0000"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=050000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&border=8B0000"/>
 
 </div>
 
 ---
 
-## 👁️ THE HAUNTED CONTRIBUTION MAP
+## 👁️ CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050000&color=ff0000&line=8b0000&point=ff3333&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050000&color=FF0000&line=8B0000&point=FF3333&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## ☠️ CONNECT WITH ME
+## 🕯️ CURRENTLY EXPLORING
+
+- Artificial Intelligence & AI-powered applications
+- Advanced Flutter Development
+- Creative UI/UX & Glassmorphism
+- Modern Web Technologies
+- Innovative Digital Products
+
+---
+
+## 🩸 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=FF0000"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
+<a href="https://my-resume-tby3.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=FF0000"/>
 </a>
 
 </div>
@@ -97,12 +121,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,60:300000,100:000000&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=THE+NIGHTMARE+NEVER+ENDS...;THE+DARKNESS+IS+CALLING...;SEE+YOU+IN+THE+SHADOWS..."/>
 
-### 💀 YOU HAVE ENTERED ZENZI'S WORLD 💀
+### ☠️ CODE. CREATE. INNOVATE. ☠️
 
-**THE DARKNESS NEVER ENDS...**
+**"DREAM BIG. BUILD SMARTER. CREATE SOMETHING EXTRAORDINARY."**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SOULS+VISITED&color=8b0000&style=for-the-badge"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VISITORS&color=8B0000&style=for-the-badge"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:350000,100:000000&height=130&section=footer"/>
 
 </div>
