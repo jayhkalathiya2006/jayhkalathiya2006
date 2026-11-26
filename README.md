@@ -117,9 +117,12 @@
 
 ---
 
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=THE+NIGHTMARE+NEVER+ENDS...;THE+DARKNESS+IS+CALLING...;SEE+YOU+IN+THE+SHADOWS..."/>
+<img src="https://komarev.com/ghpvc/?username=jayhkalathiya2006&label=PROFILE%20VISITORS&color=8B0000&style=for-the-badge" alt="Profile Visitors" />
+
+</div>
 
 ### ☠️ CODE. CREATE. INNOVATE. ☠️
 
