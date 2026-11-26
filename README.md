@@ -2,10 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=26&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=THE+NIGHTMARE+BEGINS...;SOMETHING+IS+WATCHING+YOU...;WELCOME+TO+MY+DARK+WORLD;FEAR+NOTHING.+BUILD+EVERYTHING."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,40:300000,100:8B0000&text=ZENZI&fontColor=FF0000&fontSize=85&fontAlignY=38&animation=twinkling&desc=WELCOME%20TO%20THE%20DARK%20SIDE&descAlignY=60&descSize=18"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=27&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=THE+NIGHTMARE+HAS+BEGUN...;WELCOME+TO+ZENZI;CODE+IN+THE+DARKNESS;FEAR+IS+JUST+AN+ILLUSION" />
 
+<br/>
 ### ☠️ ENTER IF YOU DARE ☠️
 
 *Turning Ideas Into Digital Experiences...*
