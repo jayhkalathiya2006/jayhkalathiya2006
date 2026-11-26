@@ -1,11 +1,10 @@
 
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:990000&height=230&section=header&text=JAY%20KALATHIYA&fontSize=48&fontColor=FF0000&animation=twinkling&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=16"/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=26&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=THE+NIGHTMARE+BEGINS...;SOMETHING+IS+WATCHING+YOU...;WELCOME+TO+MY+DARK+WORLD;FEAR+NOTHING.+BUILD+EVERYTHING."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=WELCOME+TO+THE+DARK+SIDE...;FLUTTER+DEVELOPER;AI+ENTHUSIAST;UI%2FUX+CREATOR;BUILDING+THE+FUTURE..."/>
-
-<br/>
+</div>
 
 ### ☠️ ENTER IF YOU DARE ☠️
 
