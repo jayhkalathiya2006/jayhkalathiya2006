@@ -37,17 +37,14 @@
 ---
 
 
+
 ## 💀 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF3333&text_color=FFFFFF&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&border_color=8B0000"/>
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=jayhkalathiya2006&theme=dark&background=050000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&border=8B0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/>
 
 </div>
 
