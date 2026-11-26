@@ -38,13 +38,36 @@
 
 
 
+
 ## 💀 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF3333&text_color=FFFFFF&hide_border=true"/>
+<!-- Main GitHub Stats -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=jayhkalathiya2006&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF3333&text_color=FFFFFF&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/>
+<!-- Most Used Languages -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&langs_count=10&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img width="75%" src="https://streak-stats.demolab.com?user=jayhkalathiya2006&theme=dark&background=050000&ring=FF0000&fire=FF3333&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jayhkalathiya2006&theme=darkhub&no-frame=true&no-bg=true&column=7"/>
+
+<br/><br/>
+
+<!-- Contribution Activity -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayhkalathiya2006&bg_color=050000&color=FF0000&line=8B0000&point=FF3333&area=true&hide_border=true&custom_title=JAY%20KALATHIYA%20-%20CONTRIBUTION%20ACTIVITY"/>
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=jayhkalathiya2006&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge"/>
 
 </div>
 
@@ -58,19 +81,6 @@
 | 🏢 BuilderCRM | Real estate CRM with builder, broker and customer workflows | Frontend, CRM |
 | 🍔 Food Delivery | Multi-panel food delivery platform | Flutter, UI/UX |
 | 🌐 Umbrella App | Social media application with stories, chat and video calls | Flutter |
-
----
-
-
-## 💀 GITHUB STATISTICS
-
-<div align="center">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=jayhkalathiya2006&show_icons=true&theme=dark&bg_color=050000&title_color=FF0000&icon_color=FF3333&text_color=FFFFFF&hide_border=true"/>
-
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayhkalathiya2006&layout=compact&theme=dark&bg_color=050000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/>
-
-</div>
 
 
 ---
