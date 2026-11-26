@@ -83,11 +83,13 @@
 
 ---
 
-## 👁️ CONTRIBUTION ACTIVITY
+
+<h2>👁️ CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050000&color=FF0000&line=8B0000&point=FF3333&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayhkalathiya2006&bg_color=050000&color=FF0000&line=8B0000&point=FF3333&area=true&area_color=350000&hide_border=true&custom_title=JAY%20KALATHIYA%20-%20CONTRIBUTION%20ACTIVITY"/>
+
 </div>
 
 ---
