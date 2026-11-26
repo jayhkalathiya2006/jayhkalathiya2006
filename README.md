@@ -88,7 +88,6 @@
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050000&color=FF0000&line=8B0000&point=FF3333&area=true&hide_border=true"/>
-
 </div>
 
 ---
