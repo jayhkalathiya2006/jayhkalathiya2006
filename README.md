@@ -1,7 +1,6 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050000,50:3B0000,100:990000&text=JAY%20H.%20KALATHIYA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050000,50:3B0000,100:990000&text=JAY%20H.%20KALATHIYA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20MOBILE%20APP%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=13&animation=fadeIn"/>
 
 <a href="https://my-resume-eosin-phi.vercel.app">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -9,8 +8,11 @@
 <a href="https://github.com/jayhkalathiya2006">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/jay-h-kalathiya-963280396/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=I+BUILD+DIGITAL+EXPERIENCES;FLUTTER+%7C+DART+%7C+FIREBASE;CREATING+IDEAS+INTO+REALITY;CODE.+CREATE.+INNOVATE."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF3333&center=true&vCenter=true&width=650&lines=I+BUILD+DIGITAL+EXPERIENCES;FLUTTER+%7C+DART+%7C+FIREBASE;MOBILE+APP+DEVELOPER;AI-POWERED+APPLICATIONS;CODE.+CREATE.+INNOVATE."/>
 
 </div>
 
@@ -20,13 +22,16 @@
 
 > "Turning imagination into digital experiences."
 
-I'm **Jay H. Kalathiya**, a Flutter Developer who loves creating modern applications, intuitive interfaces, and innovative technology solutions.
+I'm **Jay H. Kalathiya**, a Flutter Developer and Mobile Application Developer from Surat, Gujarat, India. I enjoy building modern mobile applications, intuitive user interfaces, and innovative AI-powered technology solutions.
 
-- `01` — Mobile Application Development
-- `02` — Flutter & Dart Development
-- `03` — UI/UX and Frontend Experiences
-- `04` — AI-powered Applications
-- `05` — Building real-world software products
+- `01` — Flutter & Dart Application Development
+- `02` — Cross-Platform Mobile App Development
+- `03` — UI/UX and Frontend Development
+- `04` — Firebase Integration & Application Services
+- `05` — AI-powered Applications and Digital Solutions
+- `06` — Building Real-World Software Products
+
+**Currently:** Founder of **NO FOUND AI Tech Solution**, exploring innovative ideas and building digital products.
 
 ---
 
@@ -34,8 +39,8 @@ I'm **Jay H. Kalathiya**, a Flutter Developer who loves creating modern applicat
 
 | DOMAIN | TECHNOLOGIES |
 |---|---|
-| Mobile | Flutter, Dart |
-| Frontend | HTML, CSS, JavaScript |
+| Mobile Development | Flutter, Dart |
+| Frontend Development | HTML, CSS, JavaScript |
 | Backend Services | Firebase |
 | Tools | Git, GitHub, VS Code |
 | Design | UI/UX |
@@ -136,6 +141,10 @@ Flutter Developer — Visyom AI
 
 <a href="https://github.com/jayhkalathiya2006">
 <img src="https://img.shields.io/badge/GITHUB-Follow_My_Work-171717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jay-h-kalathiya-963280396/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
